@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on UNSW
 - 🌱 I’m currently learning golang, algorithm
-![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
