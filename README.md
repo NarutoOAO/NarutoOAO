@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on UNSW
 - 🌱 I’m currently learning golang, algorithm
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/NarutoOAO/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NarutoOAO/github-stats/master/generated/overview.svg#gh-light-mode-only)
